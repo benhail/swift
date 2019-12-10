@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FileReader",
+        "repositoryURL": "https://github.com/benhail/swift",
+        "state": {
+          "branch": null,
+          "revision": "a6efea27acb23edc40e0728f01c2e4711c643126",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
